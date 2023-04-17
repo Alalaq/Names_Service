@@ -1,0 +1,5 @@
+GET http://localhost:8080/name?name=Mano
+###
+GET http://localhost:8080/frequency
+###
+GET http://localhost:8080/highest-age
